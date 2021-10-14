@@ -6,6 +6,8 @@ import csv
 from src.some_storage_library import SomeStorageLibrary
 
 
+
+
 if __name__ == '__main__':
     """Entrypoint"""
     print('Beginning the ETL process...')
